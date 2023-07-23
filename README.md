@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Video Reference:
 
-https://github.com/emondd4/fruit_ui_challenge/blob/master/assets/0724.mp4
+<img src="https://github.com/emondd4/fruit_ui_challenge/blob/master/assets/sample.gif">
